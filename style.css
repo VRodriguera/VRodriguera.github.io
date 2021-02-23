@@ -18,19 +18,26 @@
 #foto{
 border-radius: 200px;
 width: 200px;
+padding: 5px;
+background-color: #588157;
 
-}
-.posiçao{
-    display: inline-block;
 }
 .link{
     display: inline-block;
     margin-left: 10px ;
     
 }
-h2, h4, ul, p, a{
+h2, h4, ul, a{
     text-align: center;
 }
 li, a{
     display: block;
+}
+.posiçao{
+    text-align: center;
+}
+table{
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
